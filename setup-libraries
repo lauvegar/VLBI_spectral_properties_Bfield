@@ -1,0 +1,13 @@
+matplotlib
+python-backports.functools-lru-cache
+python-tk
+astropy
+scipy
+numpy
+packaging
+iminuit==1.2
+probfit==1.0.5
+h5py
+psutil
+pylatex
+pyqt4
